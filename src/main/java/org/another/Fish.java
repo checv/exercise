@@ -1,6 +1,6 @@
 package org.another;
 
-import org.protected_test.Anamal;
+import org.protected_test.Animal;
 
-public class Fish extends Anamal {
+public class Fish extends Animal {
 }

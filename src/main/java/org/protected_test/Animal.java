@@ -2,7 +2,7 @@ package org.protected_test;
 
 
 
-public class Anamal {
+public class Animal extends Creture{
 
     protected String protectedName = "PROTECTED";
 

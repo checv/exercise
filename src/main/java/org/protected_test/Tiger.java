@@ -1,4 +1,4 @@
 package org.protected_test;
 
-public class Tiger extends Anamal {
+public class Tiger extends Animal {
 }
